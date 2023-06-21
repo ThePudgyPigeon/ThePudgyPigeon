@@ -2,7 +2,7 @@
 
 I am a new software developer learning to program through TechElevator.
 - 🔭 I’m currently working on ideas for my first project!
-- 🌱 I’m currently learning Javascript.
+- 🌱 I have some experience in JavaScript and am currently learning object oriented programming using Java.
 - 💬 Ask me about my cats! They are my pride and joy.
 - 📫 How to reach me: The easiest way to contact me quickly is via email - samanthalstinchcomb@gmail.com
 - 😄 Pronouns: she/her
