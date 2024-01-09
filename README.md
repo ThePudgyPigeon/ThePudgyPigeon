@@ -12,16 +12,20 @@
   </h1>
 </div>
 
-👩‍💻 I am a Full Stack Developer in the Columbus, Ohio metropolitan area.
+### 👩‍💻 I am a Full Stack Developer in the Columbus, OH metropolitan area.
   - 🔭 I’m currently contributing heavily to Bug Wars, both on the [server](https://github.com/yuneKim/bug-wars-server) and the [client](https://github.com/yuneKim/bug-wars-client)!
+  
   - 💬 Ask me about my cats! They are my pride and joy.
+  
   - 📫 How to reach me: The easiest way to contact me quickly is via email - samanthalstinchcomb@gmail.com
+  
   - 😄 Pronouns: she/her
+  
   - ⚡ Fun fact: I'm a fiber artist in my free time! I knit, crochet, and embroider.
     
 ---
 
-🛠️ My languages and tools:
+### 🛠️ My languages and tools:
 
 [![My Skills](https://skillicons.dev/icons?i=java,idea,maven,postgres,js,ts,vue,html,css,vscode)](https://skillicons.dev)
 
