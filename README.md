@@ -10,12 +10,7 @@
     Hello, World!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWh4eng1aW5mN2Z5aGF4dHk5d2E5aHNoNW55OWNsazNwbnNoNDBheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
-  </div>
 </div>
-
----
 
 👩‍💻 I am a Full Stack Developer in the Columbus, Ohio metropolitan area.
   - 🔭 I’m currently contributing heavily to Bug Wars, both on the [server](https://github.com/yuneKim/bug-wars-server) and the [client](https://github.com/yuneKim/bug-wars-client)!
@@ -30,3 +25,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,idea,maven,postgres,js,ts,vue,html,css,vscode)](https://skillicons.dev)
 
+  <div align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWh4eng1aW5mN2Z5aGF4dHk5d2E5aHNoNW55OWNsazNwbnNoNDBheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
+  </div>
