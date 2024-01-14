@@ -13,7 +13,7 @@
 </div>
 
 ### 👩‍💻 I am a Full Stack Developer in the Columbus, OH metropolitan area.
-  - 🔭 I’m currently contributing heavily to Bug Wars, both on the [server](https://github.com/yuneKim/bug-wars-server) and the [client](https://github.com/yuneKim/bug-wars-client)!
+  - 🔭 I’m currently contributing heavily to Bug Wars, both on the [server](https://github.com/yuneKim/bug-wars-server) and the [client](https://github.com/yuneKim/bug-wars-client), and working on a personal project called Crochet Companion - what I hope to be an openly available crochet project manager with an included stitch dictionary!
   
   - 💬 Ask me about my cats! They are my pride and joy.
   
