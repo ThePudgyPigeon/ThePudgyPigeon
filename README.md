@@ -27,7 +27,7 @@
 
 ### 🛠️ My languages and tools:
 
-[![My Skills](https://skillicons.dev/icons?i=java,idea,maven,postgres,js,ts,vue,html,css,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,idea,maven,idea,postgres,js,ts,vue,html,css,vscode,git,github,gitlab,postman)](https://skillicons.dev)
 
   <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWh4eng1aW5mN2Z5aGF4dHk5d2E5aHNoNW55OWNsazNwbnNoNDBheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
